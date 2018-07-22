@@ -1,0 +1,11 @@
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\Api.EletronicVoteSystem\bin\Debug\netcoreapp2.0\Api.EletronicVoteSystem.deps.json
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\Api.EletronicVoteSystem\bin\Debug\netcoreapp2.0\Api.EletronicVoteSystem.runtimeconfig.json
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\Api.EletronicVoteSystem\bin\Debug\netcoreapp2.0\Api.EletronicVoteSystem.runtimeconfig.dev.json
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\Api.EletronicVoteSystem\bin\Debug\netcoreapp2.0\Api.EletronicVoteSystem.dll
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\Api.EletronicVoteSystem\bin\Debug\netcoreapp2.0\Api.EletronicVoteSystem.pdb
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\Api.EletronicVoteSystem\obj\Debug\netcoreapp2.0\Api.EletronicVoteSystem.csprojAssemblyReference.cache
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\Api.EletronicVoteSystem\obj\Debug\netcoreapp2.0\Api.EletronicVoteSystem.csproj.CoreCompileInputs.cache
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\Api.EletronicVoteSystem\obj\Debug\netcoreapp2.0\Api.EletronicVoteSystem.AssemblyInfoInputs.cache
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\Api.EletronicVoteSystem\obj\Debug\netcoreapp2.0\Api.EletronicVoteSystem.AssemblyInfo.cs
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\Api.EletronicVoteSystem\obj\Debug\netcoreapp2.0\Api.EletronicVoteSystem.dll
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\Api.EletronicVoteSystem\obj\Debug\netcoreapp2.0\Api.EletronicVoteSystem.pdb
