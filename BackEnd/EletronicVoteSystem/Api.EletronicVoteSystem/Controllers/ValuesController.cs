@@ -1,13 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Api.EletronicVoteSystem.Controllers
 {
-    [Route("api/v1/[controller]")]
+    [Route("api/[controller]")]
     public class ValuesController : Controller
     {
         // GET api/values

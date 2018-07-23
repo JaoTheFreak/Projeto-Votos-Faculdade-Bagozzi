@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projeto Faculdade\\Projeto-Votos-Faculdade-Bagozzi\\BackEnd\\Api.EletronicVoteSystem\\Api.EletronicVoteSystem.csproj",
+      "projectUniqueName": "E:\\Projeto Faculdade\\Projeto-Votos-Faculdade-Bagozzi\\BackEnd\\EletronicVoteSystem\\Api.EletronicVoteSystem\\Api.EletronicVoteSystem.csproj",
       "projectName": "Api.EletronicVoteSystem",
-      "projectPath": "E:\\Projeto Faculdade\\Projeto-Votos-Faculdade-Bagozzi\\BackEnd\\Api.EletronicVoteSystem\\Api.EletronicVoteSystem.csproj",
+      "projectPath": "E:\\Projeto Faculdade\\Projeto-Votos-Faculdade-Bagozzi\\BackEnd\\EletronicVoteSystem\\Api.EletronicVoteSystem\\Api.EletronicVoteSystem.csproj",
       "packagesPath": "C:\\Users\\JoaoI\\.nuget\\packages\\",
-      "outputPath": "E:\\Projeto Faculdade\\Projeto-Votos-Faculdade-Bagozzi\\BackEnd\\Api.EletronicVoteSystem\\obj\\",
+      "outputPath": "E:\\Projeto Faculdade\\Projeto-Votos-Faculdade-Bagozzi\\BackEnd\\EletronicVoteSystem\\Api.EletronicVoteSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
