@@ -1,0 +1,8 @@
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\EletronicVoteSystem\Infra.EletronicVoteSystem\bin\Debug\netcoreapp2.0\Infra.EletronicVoteSystem.deps.json
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\EletronicVoteSystem\Infra.EletronicVoteSystem\bin\Debug\netcoreapp2.0\Infra.EletronicVoteSystem.dll
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\EletronicVoteSystem\Infra.EletronicVoteSystem\bin\Debug\netcoreapp2.0\Infra.EletronicVoteSystem.pdb
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\EletronicVoteSystem\Infra.EletronicVoteSystem\obj\Debug\netcoreapp2.0\Infra.EletronicVoteSystem.csproj.CoreCompileInputs.cache
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\EletronicVoteSystem\Infra.EletronicVoteSystem\obj\Debug\netcoreapp2.0\Infra.EletronicVoteSystem.AssemblyInfoInputs.cache
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\EletronicVoteSystem\Infra.EletronicVoteSystem\obj\Debug\netcoreapp2.0\Infra.EletronicVoteSystem.AssemblyInfo.cs
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\EletronicVoteSystem\Infra.EletronicVoteSystem\obj\Debug\netcoreapp2.0\Infra.EletronicVoteSystem.dll
+E:\Projeto Faculdade\Projeto-Votos-Faculdade-Bagozzi\BackEnd\EletronicVoteSystem\Infra.EletronicVoteSystem\obj\Debug\netcoreapp2.0\Infra.EletronicVoteSystem.pdb
