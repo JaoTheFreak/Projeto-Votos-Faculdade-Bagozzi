@@ -11,7 +11,7 @@ namespace Api.EletronicVoteSystem.Auth
 
         public SigningConfiguration()
         {
-            using (var providerRsa = new RSACryptoServiceProvider())
+            using (var providerRsa = new RSACryptoServiceProvider(2048))
             {
                 Key = new RsaSecurityKey(providerRsa.ExportParameters(true));
             }
